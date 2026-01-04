@@ -1,0 +1,8 @@
+# Switch 2 Pro Controller - macOS Driver
+# Requirements
+
+# Core BLE library
+bleak>=0.21.0
+
+# Keyboard simulation for Ryujinx bridge
+pynput>=1.7.6
