@@ -20,7 +20,7 @@ Date: January 2026
 License: MIT
 """
 
-from .driver import Switch2ProController, ControllerState
+from .client import Switch2ProController, ControllerState
 
 __version__ = "1.0.0"
 __author__ = "Aurélien Desert"

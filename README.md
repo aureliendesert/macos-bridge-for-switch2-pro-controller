@@ -1,4 +1,4 @@
- 🎮 Switch 2 Pro Controller - macOS BLE Bridge
+# 🎮 Switch 2 Pro Controller - macOS BLE Bridge
 
 **The first working Bluetooth LE client for the Nintendo Switch 2 Pro Controller on macOS.**
 
@@ -189,5 +189,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 <p align="center">
   <b>⭐ Star this repo if it helped you!</b><br>
   <i>First macOS BLE bridge for Switch 2 Pro Controller - January 2026</i>
-</p>
 </p>
